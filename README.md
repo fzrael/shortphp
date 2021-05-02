@@ -5,12 +5,6 @@
   <img src='https://img.icons8.com/clouds/2x/link.png' width="200" height="200"/>
 </div>
 
-## Used libraries 📚:
-```pyhton
-- requests
-- random
-- string
-```
 
 # <img src="https://github.com/fzrael/short/blob/main/img/screenshot.png" width="30" height="30"/> Screenshots
 <img src="https://github.com/fzrael/shortphp/blob/main/img/gif.gif" />
